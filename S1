@@ -1,3 +1,5 @@
 agent ap: 10.10.10.10
 vlan:
   red:10
+green:
+   20
