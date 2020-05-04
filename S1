@@ -1,1 +1,3 @@
 agent ap: 10.10.10.10
+vlan:
+  red:10
